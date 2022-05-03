@@ -1,1 +1,1 @@
-node index.js --wallet <walletaddress>
+node index.js --wallet [walletaddress]
